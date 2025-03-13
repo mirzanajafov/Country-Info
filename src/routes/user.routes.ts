@@ -1,5 +1,5 @@
 import express from 'express';
-import { addHolidays } from '../controllers/calendar.controller';
+import { addHolidays } from '../controllers/user.controller';
 
 const router = express.Router();
 
